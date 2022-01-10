@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<annotation>
+    <folder>images</folder>
+    <filename>m5_s03_089_p_nic018.JPG</filename>
+    <path>images/m5_s03_089_p_nic018.JPG</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>6000</width>
+        <height>4000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>m5_s03_089_p_nic018</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>455.0000381469723</xmin>
+            <ymin>294.9999999999998</ymin>
+            <xmax>2120.0001525878893</xmax>
+            <ymax>2139.999999999998</ymax>
+        </bndbox>
+    </object>
+</annotation>
