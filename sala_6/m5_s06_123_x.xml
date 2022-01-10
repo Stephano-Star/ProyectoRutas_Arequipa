@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<annotation>
+    <folder>images</folder>
+    <filename>m5_s06_123_x.JPG</filename>
+    <path>images/m5_s06_123_x.JPG</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5880</width>
+        <height>3920</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>m5_s06_123_x</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>120.0000286102294</xmin>
+            <ymin>459.99999999999966</ymin>
+            <xmax>5779.999999999996</xmax>
+            <ymax>3254.9999999999977</ymax>
+        </bndbox>
+    </object>
+</annotation>
