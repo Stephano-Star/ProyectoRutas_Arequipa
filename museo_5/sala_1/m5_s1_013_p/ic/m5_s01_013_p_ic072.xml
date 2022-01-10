@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<annotation>
+    <folder>images</folder>
+    <filename>M5_S01_013_p_072.JPG</filename>
+    <path>images/M5_S01_013_p_072.JPG</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5940</width>
+        <height>3960</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>M5_S01_013_p_ic072</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1259.9999999999982</xmin>
+            <ymin>659.9999999999991</ymin>
+            <xmax>4729.999999999993</xmax>
+            <ymax>3460.0003051757762</ymax>
+        </bndbox>
+    </object>
+</annotation>
